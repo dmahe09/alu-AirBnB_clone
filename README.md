@@ -1,5 +1,8 @@
 Project AirBnB clone
-Description
+
+***Description***
+
+
 This project is a command-line interpreter (CLI) for managing AirBnB objects. It allows users to create, retrieve, update, and delete objects such as users, states, cities, and places in a simplified version of the Airbnb clone.
 
 Command Interpreter
